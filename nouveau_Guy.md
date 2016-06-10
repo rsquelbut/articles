@@ -70,7 +70,7 @@ ou encore
 >  Je ne sais plus pourquoi on a cette stacktrace dans l'appli c'est pas grave, elle ne gêne pas
 
 Alors il est temps de remettre en cause ces mauvaises habitudes !!!
-Profitez de le venue de ce nouveau, pour remettre aux propres vos habitudes ou vous rappelez le pourquoi de vos décisions. Ca ne peut pas faire de mal. De plus on est jamais à l'abri d'une bonne idée.
+Profitez de la venue de ce nouveau Guy pour remettre aux propres vos habitudes ou vous rappelez le pourquoi de vos décisions. De plus on est jamais à l'abri d'une bonne idée.
 
 ## le turn over
 
