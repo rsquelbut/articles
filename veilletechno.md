@@ -103,3 +103,10 @@ Lire est une compétence comme toute autre : on n'arrête jamais de progresser
 s’arrêter a la qualité de lecture apprise a l'école c'est s'en priver d'un univers de techniques plus avancés, M. Adler a compris ça.
 
 PS: Oui il y en reste un grand nombre de livres/articles où j'ai lu du début a la fin chaque petit mot, même plusieurs fois : ça en valait la peine.
+
+ Cyrille Martraire –
+
+September 21, 2014 at 9:52pm from iPhone
+Romeu Moura J'ai lu ton commentaire jusqu'au bout, ça en valait la peine !
+
+Merci de partager toutes ces techniques et astuces, j'ai encore pas mal à apprendre, j'ai encore trop tendance à lire de bout en bout. Serait-ce par peur de rater une perle parfois bien cachée dans l'article ? Il est déjà arrivé que je me félicite d'avoir tout lu bêtement et laborieusement, mais en moyenne cela vaut il la peine ? Je crois que tu as répondu très bien :)
