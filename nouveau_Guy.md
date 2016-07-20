@@ -64,9 +64,9 @@ Ces méthodes précédentes sont relativement classiques et connues, mais j’ai
 
 Il est plus facile d’enrichir son savoir avec des sujets proches de ce que l’on connait déjà. 
 
-Fonctionnellement, il est conseillé d'aller du plus général au plus spécifique. Les principes généraux sont plus simples à comprendre. Une fois ceux-ci intégrés, on peut s'y raccrocher comme à une branche lorsque l'on aborde les spécificités et autres exceptions métiers.
+Fonctionnellement, il est conseillé d'aller du plus général au plus spécifique. Les principes généraux sont plus simples à comprendre. Une fois ceux-ci intégrés, on peut s'y raccrocher comme à une branche lorsque l'on aborde les spécificités et autres exceptions métiers. De la même façon que l'on regarde un tableau, on regarde d'abord l'ensemble, le but du tableau, puis au fur et à mesure on se rapproche des détails pour mieux en apprécier les moyens.
 
-Techniquement en revanche, l’apprentissage se fera naturellement du bas vers le haut. On va d'abord comprendre la méthode puis la classe, puis la hiérarchie d'appel, le module, le service, etc... Attention, celà ne veut pas dire qu'il faut jeter à la poubelle, le petit schéma d'architecture de l'applications avec 3 flèches. S'il y a 25 flèches, gardez le pour plus tard !!
+Techniquement en revanche, l’apprentissage se fera naturellement du bas vers le haut. On va d'abord comprendre la méthode puis la classe, puis la hiérarchie d'appel, le module, le service, etc... C'est un peu comme lorsque l'on joue au légo. On manipule d'abord des petites briques pour arriver à l'ensemble. Attention, celà ne veut pas dire qu'il faut jeter à la poubelle, le petit schéma d'architecture de l'applications avec 3 flèches. S'il y a 25 flèches, gardez le pour plus tard !!
 
 ## des bénéfices pour l’équipe ?
 
