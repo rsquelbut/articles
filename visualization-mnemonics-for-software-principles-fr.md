@@ -94,9 +94,48 @@ pour une contrainte affectent l'autre.
 L'espace disque n'est pas très cher et les _classes/namespaces/modules_ sont des ressources renouvelables. 
 Alors dans le doute, créez en un nouveau.
 
+
+
 ## Open/Closed Principle
 
-I don’t have a ton of time for TV these days, and that’s mainly because TV is so time consuming. It was a lot simpler when I just had a TV that got an analog signal over the air. But then, things went digital, so I had to take apart my TV and rewire it to handle digital signals. Next, we got cable and, of course, there I am, disassembling the TV again so that we can wire it up to get a cable signal. The worst part of that was that when I became furious with the cable provider and we switched to Dish, I was right back to work on the TV. Now, we have a Nintendo Wii, a DVD player, and a Roku, but who has the time to take the television apart and rewire it to handle each of these additional items? And if that weren’t bad enough, I tried hooking up an old school Sega Genesis last year, and my Dish stopped working.
+Je n'ai pas trop eu le temps de regarder la télé ces derniers jours, 
+principalement parce que la télé est un gros consommateur de temps. 
+C'était beaucoup plus simple lorsque la télé ne diffusait qu'un signal analogique qui venait des airs. 
+Mais est venu le temps du digital. J'ai donc du trafiquer ma télé et la recabler pour qu'elle traîte le signal numérique. 
+Le pire dans tout ça, c'est quand je me suis fâché avec le fournisseur de cable et que nous avons changé de fournisseur *(DISH ??)*, j'ai alors du retravailler sur la télé. 
+Maintenant, nous avons une Nintendo Wii, un lecteur de DVD et un *Roku*, 
+et j'aimerais savoir qui a le temps de reprendre sa télé et la recabler pour qu'elle traite chacun de ces nouveaux objets ?
+Et comme si ce n'était pas assez, j'ai essayé, l'an dernier de "brancher" une vieille Sega MasterSystem
+et mon *Dish* a cessé de fonctionner.
 
-Je n'ai pas trop eu le temps de regarder la télé ces derniers jours, principalement parce que la télé est un gros consommateur de temps. C'était beaucoup plus simple lorsque la télé ne diffusait qu'un signal
+… Jamais personne n'a fait ça. 
+Pour la bonne et simple raison que personne n'énonce jamais 
+que cette télé que vous avez commandée respecte le Open/Closed Principle. 
+Ce qui signifie que vous devez fabriquer des composants qui sont fermés à la modification mais ouverts à l'extension. 
+Les télévisions que vous achetez ne sont pas faites pour être démontées par vos soins 
+et j'imagine que personne ne conçoit devoir trifouiller les entrailles de la télé juste pour brancher un composant. 
+C'est pour éviter celà que les cables et connecteurs Coax/RCA/Component/HDMI/etc ont été créés. 
+Ses connecteurs et le fait qu'elle soit scellée sous garantie font que votre télévision
+est ouverte à l'extension mais fermée à la modification. 
+Vous pouvez étendre ses capacités en branchant le périphérique de votre choix, 
+voire même des composants qui n'existent pas encore, commme par exemple une X-Box 12. 
+Suivez donc le même principe pour avoir du code flexible. 
+Lorsque vous écrivez du code efforcez vous de maximiser la flexibilité en facilitant 
+la maintenance à travers les extensions et du nouveau code. 
+Si vous programmez à travers des interfaces et que vous laissez la possibilité de modifier le comportement à travers l'héritage, la vie sera beaucoup plus simple qund viendra l'heure du changement. Je vous invite donc à suivre ce principe plutôt que d'écrire la grosse classe mastodonte que vous allez devoir tenter de comprendre puis modifier à chaque sprint. C'est dégueu et vous allez finir par la détester cette classe ainsi que sa conception. De la même manière que vous détesteriez la télévision que j'ai décrite un peu plus haut.
+
+
+## Liskov Substitution Principle
+
+J'ai généralement pour habitude de dîner une salade assez classique. Vous savez, genre salade, tomates, croutons, oignons, carottes et cigüe. En revanche, je fais une chose originale quand je mange ma salade. A chaque coup de fourchette j'examine chaque élément avant de le mettre dans ma bouche (beaucoup d'amateurs de salades composées vont beaucoup plus vite mais jouent avec leur vie). Pour ce faire, je déroule un algorithme simple. Si l'ingrédient que j'ai dans ma fourchette n'est pas de la cïgue, alors je le mange. Si c'est de la cigüe, je le repose dans un coin de mon assiette pour le jeter plus tard. Je vous recommande chaudement de manger votre salade de cigüe de la sorte.
+
+Ou bien, vous pouvez garder en tête le principe de subsitution de Liskov. Ce principe explique que si vous avez une relation d'héritage, alors chaque dérivé devrait pouvoir être remplacé par leur type de base. Ainsi, dans ma salade de *comestibles*, je ne devrais pas avoir un type dérivé *cigüe* qui ne se comporte pas de la même façon que les autres *comestibles*. Une autre façon de voir les choses est d'imaginer une collection d'objets hétérogènes dans une hiérarchie d'héritage, vous n'allez pas dans ce cas, parcourir les éléments les uns après les autres et vous demander 
+
+> voyons de quel type est celui-ci et adaptons notre traitement
+
+Alors suivez le LSP et ne composez de la salade à la cigüe pour personne. Vous aurez du code plus propre et vous éviterez la prison.
+
+## Interface Segregation Principle
+
+Dieu soit loué le cache de pages web, ça sauve des vies. Dès que j'interroge mon dictionnaire en ligne préféré, expertbeginnerdictionary.com (ce n'est pas un vrai site, pour ceux qui pensaient le visiter), on me demande un mot à rehercher, dès que le je saisis, alors il m'envoie le dictionnaire à travers HTTP, alors grâce à Ctrl-F, je peux chercher mon mot. Mais ca prend un temps terrible à mon navigateur de charger le dictionnaire entier, je serais vraiement peine s'il n'y avait pas ce mécanisme de cache. Bon, le seul problème, c'est qund un mot du dictionnaire change. Alors le cache est invalidé et ma prochaine recherche prendra le temps de recharger en entier ce dictionnaire. Haaa si, si seulement il y avait une meilleur façcon de faire.
 
