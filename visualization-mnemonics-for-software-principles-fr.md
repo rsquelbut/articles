@@ -4,8 +4,6 @@ Cet article est une traduction d'un article de Erik Dietrich donnant quelques as
 
 Peut-être souhaitez-vous, vous mêler à des discussions sur le développement informatique sans avoir besoin de rechercher subrepticement des définitions sur votre téléphone, ou bien vous avez bientôt un entretien pour un poste de d'expert OOP ou de lead dev, mais vous désirez être bien informés sur le monde du développement et ses principes de fabrication. C'est probablement doublement vrai pour vous qui prenez le temps de lire des blogs de bonnes pratiques logicielles.
 
-[illustration][demeter_pic]
-
 A travers l'écriture de ce poste, j'aimerais vous fournir quelques techniques rapides pour apprendre les principes de développement et vous permettre ainsi de les mettre en pratique plus tard. On va le faire à travers quelques petites histoires. Aller c'est parti.
 
 ## Loi de Demeter
@@ -17,6 +15,8 @@ attendant que le caissier me dise "c'est $1,95". A ce moment naturellement, j'en
 > Regardez : je vous tends mon pantalon, vous fouillez dans les poches, jusqu'à trouver mon portefeuille, vous le sortez et prenez l'argent nécessaire. S'il y a trop, remettez la monnaie dans le portefeuille *unless it's a coin*, puis vous le remettez dans la poche du pantalon et enfin vous me rendez le pantalon. 
 
 A ce moment là, il sort un fusil de derrière le comptoir et m'informe que dans son magasin on obéit à la [loi de Demeter](en.wikipedia.org/wiki/Law_of_Demeter "loi de Demeter') ou bien on s'en va.
+
+![illustration][demeter_pic]
 
 Mais que dit la loi de Demeter ? Entre autre, elle dit 
 
