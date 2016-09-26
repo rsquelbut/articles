@@ -2,7 +2,7 @@ Cet article est une traduction d'un article de Erik Dietrich donnant quelques as
 
 # Introduction
 
-Peut-être souhaitez-vous, vous mêler à des discussions sur le développement informatique sans avoir besoin de rechercher subrepticement des définitions sur votre téléphone, ou bien vous avez bientôt un entretien pour un poste de d'expert OOP ou de lead dev, mais vous désirez être bien informés sur le monde du développement et ses principes de fabrication. C'est probablement doublement vrai pour vous qui prenez le temps de lire des blogs de bonnes pratiques logicielles.
+Peut-être souhaitez-vous participer à des discussions sur le développement informatique sans avoir besoin de rechercher subrepticement des définitions sur votre téléphone, ou bien vous avez bientôt un entretien pour un poste de d'expert OOP ou de lead dev, mais vous désirez être bien informés sur le monde du développement et ses principes de fabrication. C'est probablement doublement vrai pour vous qui prenez le temps de lire des blogs de bonnes pratiques logicielles.
 
 A travers l'écriture de ce poste, j'aimerais vous fournir quelques techniques rapides pour apprendre les principes de développement et vous permettre ainsi de les mettre en pratique plus tard. On va le faire à travers quelques petites histoires. Aller c'est parti.
 
@@ -12,7 +12,7 @@ La semaine dernière, je voyageais tranquillement au volant de ma voiture quand 
 attendant que le caissier me dise "c'est $1,95". A ce moment naturellement, j'enlève mon pantalon. Là le garçon menace d'appeler la police et hurle à l'indécence. Alors, confus, j'explique 
 
 > Mais je suis justement en train d'essayer de vous payer. 
-> Regardez : je vous tends mon pantalon, vous fouillez dans les poches, jusqu'à trouver mon portefeuille, vous le sortez et prenez l'argent nécessaire. S'il y a trop, remettez la monnaie dans le portefeuille *unless it's a coin*, puis vous le remettez dans la poche du pantalon et enfin vous me rendez le pantalon. 
+> Regardez : je vous tends mon pantalon, vous n'avez qu'à fouiller les poches jusqu'à trouver mon portefeuille, le sortir et prendre l'argent nécessaire. S'il y a trop, remettez la monnaie dans le portefeuille *unless it's a coin*, puis vous le remettez dans la poche du pantalon et enfin vous me rendez le pantalon. 
 
 A ce moment là, il sort un fusil de derrière le comptoir et m'informe que dans son magasin on obéit à la [loi de Demeter](en.wikipedia.org/wiki/Law_of_Demeter "loi de Demeter') ou bien on s'en va.
 
@@ -20,7 +20,7 @@ A ce moment là, il sort un fusil de derrière le comptoir et m'informe que dans
 
 Mais que dit la loi de Demeter ? Entre autre, elle dit 
 
-> donnez à vos collaborateurs exactement ce qu'ils demandent et ne leur fournissez pas quelque chose qu'ils font devoir fouiller pour trouver ce qu'ils veulent.
+> donnez à vos collaborateurs exactement ce qu'ils demandent et ne leur fournissez pas quelque chose qu'ils vont devoir fouiller pour trouver ce qu'ils veulent.
 
 C'est la raison pour laquelle on ne tend pas au caissier notre pantalon (ou même notre portefeuille) mais qu'on lui donne directement l'argent. Ce n'est pas malin de l'envoyer fouiller vos affaires à la recherche de l'argent. La loi de Demeter vous encourage à penser pareil pour votre code. Ne présentez pas votre pantalon au client de votre méthode en le forçant à chercher ce qui l'intéresse en invoquant `Pants.Pockets[1].Wallet.Money`, donnez lui directement `Money`. Et si vous êtes le caissier, n'acceptez pas qu'on vous tende un pantalon pour le fouiller à la recherche de l'argent, demandez l'argent ou sortez votre fusil.
 
