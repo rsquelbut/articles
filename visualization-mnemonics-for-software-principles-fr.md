@@ -1,6 +1,6 @@
 Cet article est une traduction d'un article de Erik Dietrich donnant quelques astuces mnémotechniques pour se rappeler de bons principes de développement paru [ici][original].
 
-# introduction
+# Introduction
 
 Peut-être souhaitez-vous, vous mêler à des discussions sur le développement informatique sans avoir besoin de rechercher subrepticement des définitions sur votre téléphone, ou bien vous avez bientôt un entretien pour un poste de d'expert OOP ou de lead dev, mais vous désirez être bien informés sur le monde du développement et ses principes de fabrication. C'est probablement doublement vrai pour vous qui prenez le temps de lire des blogs de bonnes pratiques logicielles.
 
