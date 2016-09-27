@@ -14,7 +14,7 @@ attendant que le caissier me dise "c'est $1,95". A ce moment naturellement, j'en
 > Mais je suis justement en train d'essayer de vous payer. 
 > Regardez : je vous tends mon pantalon, vous n'avez qu'à fouiller les poches jusqu'à trouver mon portefeuille, le sortir et prendre l'argent nécessaire. S'il y a trop, remettez la monnaie dans le portefeuille *unless it's a coin*, puis vous le remettez dans la poche du pantalon et enfin vous me rendez le pantalon. 
 
-A ce moment là, il sort un fusil de derrière le comptoir et m'informe que dans son magasin on obéit à la [loi de Demeter](en.wikipedia.org/wiki/Law_of_Demeter "loi de Demeter') ou bien on s'en va.
+A ce moment là, il sort un fusil de derrière le comptoir et m'informe que dans son magasin on obéit à la [loi de Demeter][demeter_wiki] ou bien on s'en va.
 
 ![illustration][demeter_pic]
 
@@ -83,4 +83,5 @@ Je parie que vous imaginez la base de code que je décris. Il y a longtemps, j'a
 
 [original]: http://www.daedtech.com/visualization-mnemonics-for-software-principles/ "visualization mnemonics for software principles"
 [demeter_pic]: http://www.daedtech.com/wp-content/uploads/2014/06/PantlessLawOfDemeter.jpg  "Illustration de la loi de Demeter"
+[demeter_wiki]: en.wikipedia.org/wiki/Law_of_Demeter "loi de Demeter"
 [ioc]: http://www.daedtech.com/inverting-control/ "Inverting control"
