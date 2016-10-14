@@ -2,7 +2,7 @@ Cet article est une traduction d'un article de Erik Dietrich donnant quelques mo
 
 # Introduction
 
-Est-ce parce vous souhaitez participer à des discussions sur le développement informatique sans avoir besoin de rechercher subrepticement des définitions sur votre téléphone ? Ou alors vous avez bientôt un entretien pour un poste d'expert OOP ou de lead dev ? Mais pour sûr, vous désirez être bien informés sur le monde du développement et ses principes de fabrication. C'est probablement doublement vrai pour vous qui prenez le temps de lire des blogs de bonnes pratiques logicielles.
+Vous aimeriez participer à plus de discussions techniques sur le développement, mais vous craignez de trop souvent devoir regarder en cachette votre téléphone pour comprendre tous les concepts de la discussion. Ou alors vous avez réussi à obtenir un entretien pour un poste de leader. Dans tous les cas, vous aimez comprendre votre environnement de travail et faire votre métier de manière qualitative. Pour celà, vous vous efforcez à rester bien informés sur le monde du développement et ses principes de fabrication en lisant des blogs sur les bonnes pratiques de développement.
 
 A travers l'écriture de ce post, j'aimerais vous fournir quelques techniques rapides pour apprendre les principes de développement et vous permettre ainsi de les mettre en pratique plus tard. On va le faire au travers de quelques saynètes. Aller c'est parti.
 
