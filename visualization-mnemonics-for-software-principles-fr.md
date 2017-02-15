@@ -1,4 +1,4 @@
-Cet article est une traduction d'un article de Erik Dietrich donnant quelques moyens mnémotechniques pour se rappeler de bons principes de développement. La version originale est parue ici [visualization mnemonics for software principles][original].
+Cet article est une traduction d'un article de Erik Dietrich donnant quelques moyens mnémotechniques pour se rappeler de bons principes de développement. La version originale est parue ici : [visualization mnemonics for software principles][original].
 
 # Introduction
 
