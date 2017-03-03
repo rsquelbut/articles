@@ -1,7 +1,11 @@
-J'ai commencé une mission chez un nouveau client jeudi, j'ai quelques citations bien cools en deux jours je vais les lister ici en réponse à ce post mais avant
+Cet article est un compte rendu d'un retour d'expérience de Romeu Moura sur la mise en place de mob programming dans sa mission. Entré dans la mission en tant que leader technique, il a obtenu la permission de démarrer sa mission par quelques jours de mob programming, pour prendre plus rapidement la température de son équipe et de son environnement.
 
-#zecontexte
+# c'est quoi le mob programming
+Rapidement, vous connaissez le pair-programming ? C'est codé avec un pair à deux derrière un ordinateur. Bah le mob programming, c'est pareil avec toute l'équipe !!! Oui, oui, je vous assure, toute l'équipe derrière une seule machine.
 
+# le contexte
+
+L'équipe travaille sur la MCO d'un "GROS legacy de la mort" dixit l'intéressé.
 - GROS legacy de la mort
 - Mon équipe n'est pas anti agilité mais encore à convaincre de l'intérêt, les équipes voisines de openspace sont à limite contre,
 - personne est convaincu, par exemple, de l'intérêt du pair programming, c'est vite vu des voisins comme du galandage
