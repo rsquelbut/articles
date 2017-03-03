@@ -5,59 +5,71 @@ Rapidement, vous connaissez le pair-programming ? C'est codé avec un pair à de
 
 # le contexte
 
-L'équipe travaille sur la MCO d'un "GROS legacy de la mort" dixit l'intéressé.
-- GROS legacy de la mort
-- Mon équipe n'est pas anti agilité mais encore à convaincre de l'intérêt, les équipes voisines de openspace sont à limite contre,
-- personne est convaincu, par exemple, de l'intérêt du pair programming, c'est vite vu des voisins comme du galandage
+- L'équipe travaille sur la MCO d'un "GROS legacy de la mort" dixit l'intéressé.
+- L'équipe n'est pas anti agilité mais pas encore convaincue des bienfaits de la méthode. Dans le reste de l'open-space, la tendance est pire.
+- Un exemple : personne n'est convaincu de l'intérêt du pair programming. Hého, on est plus à la fac les mecs, c'est fini les TD, la glandouille, c'est fini.
 
+# introduction
+Premier jour, j'arrive, me présente et propose immédiatement de "faire un mob" pendant une semaine. J'avais convaincu au préalable la chef de projet.
 
-- arrivé jour 1, me suis présenté et j'ai proposé à l'équipe qu'on fasse un mob pour une semaine (j'avais déjà convaincu en entretien leur CdP)
-- du coup j'ai expliqué ce qu'est un mob tout court, personne connaissais
-- et j'ai proposé qu'on fasse une heure, on vote si on fait une journée et à la fin de chaque journée on vote si on le refait le lendemain #lanego
+Personne ne connaissait. Donc j'ai expliqué. Devant la modération de l'enthousiasme, ou bien l'épaisseur du scepticisme ambiant, ou les deux, j'ai minoré l'ambition. Réduit la voilure.
+Mais, enthousiaste je suis resté :
+> les mecs, on commence par une heure de mob. On stoppe, on fait le bilan et on vote pour savoir si on continue toute la journée. Pareil à la fin de la journée, on s'arrête, on fait le bilan, on vote pour continuer le lendemain.
 
-Jeudi et vendredi on a fait le mob, on a déjà voté pour refaire lundi
+Jeudi et vendredi, on a fait le mob et le vote pour continuer lundi a été rapide : "OUIIIIII"
 
 _____
 #jour 1
 
-"C'etait ultra improductif on a rien reussi a coder vraiment et on s'est perdu dans des debats infinis, j'ai espoir pour demain je veux essayer"
+A la fin de la première journée, les doutes sont encore là, mais l'envie d'en savoir plus aussi. Pour le moment, j'ai simplement réussi à piquer leur curiosité. C'est pas énorme, mais c'est un bon pas. Afin que vous jugiez vous même, voici les  remarques des 4 développeurs à la fin du premier jour :
 
-"ça m'a changé ma routine j'ai adoré je veux re-ssayer demain"
+> C'etait ultra improductif on a rien reussi a coder vraiment et on s'est perdu dans des débats infinis. Mais quand même, j'ai espoir pour demain. Je veux réessayer.
 
-"je suis convaincu du format je veux essayer demain"
+> Moi, ça m'a changé ma routine. J'ai adoré. Carrément je veux réessayer demain.
 
-"j'ai de forts doutes sur l'exercice et son utilité mais je suis d'accord qu'on ne l'a pas fait assez, jugeons apres un premier bout de code produit demain"
+> Pour ma part, je suis convaincu du format, je veux essayer demain.
 
--- conclusion du premier jour par les 4 devs
+> J'ai de forts doutes sur l'exercice et son utilité mais je suis d'accord qu'on ne l'a pas fait assez. Jugeons demain, après la production d'un premier bout de code.
+
+
 _____
 # jour 2
 
-- "Hier on a été productif a briefé Romeu de notre contexte puis le reste de la journée c'était l'échec, Je suis la depuis 3 mois, au contraire des autres qui on quelques années et aujourd'hui on a croisé le seuil où vous me montez en compéténce sur le domaine aussi et pourtant c'est le Jour 2, je vote oui pour lundi"
+A la fin du deuxième jour, on constate que ce n'est pas très productif au niveau du code, par contre, on dirait que ça réveille l'équipe et qu'elle aime ça :
 
-- "On a trop parlé aujourd'hui et peu developpé, j'aimerais que lundi on devellopé plus lundi, je vote oui"
+> Hier on a briefé Romeu sur le contexte. Jusque là, c'était bien. Puis le reste de la journée c'était l'échec. Je suis ici depuis 3 mois, au contraire des autres qui sont là depuis plusieurs années et aujourd'hui on a croisé le seuil où vous me montez en compétence sur le domaine aussi et pourtant c'est le Jour 2, je vote oui pour lundi.
 
-- "On a communiqué plus en Deux Jours que les derniers mois entiers"
+> Aujourd'hui, on a trop parlé et pas assez developpé. J'aimerais que lundi on développe plus lundi, je vote oui.
 
-- Et le communication est notre difficulté la plus grnde dans cette équipe faut l'avouer (tout le monde a rigolé en disant oui)
+> On a plus communiqué en 2 jours qu'en plusieurs mois entiers
 
-- Je suis le dev le plus senior de l'équipe, 11 ans juste de cette équipe : j'i appris de choses aujourd'hui
+> Et on sait tous que la communication est notre difficulté principale !!! (rires du reste l'équipe qui acquiesce)l
 
----- Devs en fin de Jours 2
+> Je suis le dev le plus senior de l'équipe, 11 ans juste dans cette équipe. Pourtant j'ai appris des choses aujourd'hui.
 
 _____
 # jour 3
 
-Moi : Bon il est 18h15 je suis en retard pour mon entretien avec la CdP avant qu'elle parte en vacances, merci de votre patience!
+La chef de projet part en vacances ce soir, il est 18h15 et je suis en retard pour mon entretien avec elle. Je quitte l'équipe qui me dit :
+> bon OK, on continue sans toi du coup
 
-Devs: Ben on continue sans toi du coup
+Voici le début de l'entretien : 
+> Ils sont partis les autres ? Ils développent sans toi en mob alors que tu n'es plus avec eux ?
+> C'est vrai ? Tu veux dire qu'ils sont là, sans toi, dans la salle à coder ?
 
+> Pour tout avouer, personne n'a cru qu'ils ne resteraient la journée entière. On croyait vraiment que ça allait se terminer en conflits.
 
-"ils ont déjà parti les autres?"
-"Ils developpent sans toi en mob une fois que tu as sorti?"
-"Tu veux dire qu'ils sont la, sans toi, dans la salle a coder?"
-"Tu te fou de moi?"
+> Quand tu m'as dit qu'ils ont continué le mob sans toi, les bras m'en tombent !!!
 
--- Cliente Juste après
+> Je suis verte d'être en vacances la semaine prochaine et pas voir ce que ça donne les autres jours.
+
+> Par contre rassure moi, tu n'a pas l'intention de les convertir au Mob a vie hein ? On s'arrête après une semaine comme on a dit ?
+
+> Ok, un jour encore a mon retour pour que je rejoigne le Mob en PO.
+
+> Oui des Mobs ponctuels après, je veux bien sans souci
+
+___________
 
 "Les autres équipes du projet parlent beaucoup de vous, personne n'a jamais fait rien de pareil ici, déjà que le Pair est vu avec méfiance, tu est un ovni"
 
@@ -86,17 +98,18 @@ Devs: Ben on continue sans toi du coup
 
 ______________
 
-# notes personnelles
-Ensuite
-- après tous les mobs que j'ai fait dans l'année, j'étais confiant que ce mob avec des gens vraiment non agiles et non craftsmanship que ne savent meme pas vraiment faire du pair aurait une guele de "Jour 1 poubelle, Jour 2 therapie de groupe, Jour 3 code"
+# conclusions
 
-ce fut le cas
+J'étais bien préparé pour mener un Mob après tous ceux que j'avais vécu pendant l'année (Jam de code Arolla, conférences, workshops).  J'imaginais que ce mob avec des développeurs à la papa, non agiles, non craftsmen, qui ne savent pas pairer se dérouleraient selon le scénario suivant : 
+ - jour 1 : poubelle
+ - jour 2 : thérapie de groupe
+ - jour 3 : code, enfin !!!
 
-je reste très confiant que cette mésure est un bareme fiable pour une equipe comme ça, au prix d'un certain travail de facilitation, j'ai gardé certaines tehcniques pour faciliter des mobs dans l'année, ce soir j'ai donné un debut de talk sur le sujet en after du meetup software craftsmanship mais grossomodo une equipe non-agile avec un travail de facilitation il faut y investir 3 jours, premier pubelle, deuxieme pathos, troisième code
+Au prix d'un certain travail de facilitation, ce fut le cas. 
 
-Le jour vraiment important c'est le jour 2, tu payes les 3 jours pour le Jour 2 et ça vaut le coup: le premier est pre-requis pour avoir le 2, le troisième est la dans ce cas juste pour que ça ne finisse pas en frustration pour que enfin a la fin on code
+Pour moi, le jour vraiment important, c'est le jour 2. En fait tu payes les 3 journées complètes pour le jour 2. Et ca vaut le coup !!! Le premier jour est un pré-requis. C'est le chemin vers le deuxième jour. Le troisième jour, est là pour enfin coder. On ne termine pas par une frustration, on finit par quelque de tangible.
 
-mais le Jours 2 : il apportera une liste de sujets importants a debatre en équipe pendant des mois, fera emerger plein de points de desacoord, d'incomprehension, de vision differente sur comment on fait une tache etc
+Le jour 2, toujours lui, apportera une liste de sujets importants a débattre en équipe. Il fera émerger plein de points de désaccord, d'incomprehension, de vision differente sur comment on fait une tache etc
 
 Le Jours 2 m'a donné un Backlog de points une notre equipe coince, ou les gens doivent appredre de choses, etc etc etc, il m'a donné aussi un fort aperçu de leurs personalités, malheurs etc
 
