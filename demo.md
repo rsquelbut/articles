@@ -60,6 +60,8 @@ $ docker run --rm -ti -e JAVA_OPTS="-XX:NativeMemoryTracking=summary -XX:+Unlock
 $ docker exec demo jcmd 1 VM.native_memory summary
 $ numfmt --to=iec-i --suffix=B --padding=7 --from-unit=1024 <sizes>
 ```
+Ajout de l'option
+> -XX:NativeMemoryTracking=summary
 
 description bloc par bloc de la mémoire (surtout heap, gc, classes, thread)
 
