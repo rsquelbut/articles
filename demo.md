@@ -1,6 +1,7 @@
 # récupération du container
 
 ```bash
+$ docker login docker-vsct.pkg.cloud.socrate.vsct.fr
 $ docker pull docker-vsct.pkg.cloud.socrate.vsct.fr/dtproduit/product-catalog:demo_jvm_docker
 $ docker tag docker-vsct.pkg.cloud.socrate.vsct.fr/dtproduit/product-catalog:demo_jvm_docker
  demo
