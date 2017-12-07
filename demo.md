@@ -51,7 +51,7 @@ La tentation est grande, pour maximiser le nombre de containers de fixer xmx = c
  "Oracle")
 > The -Xmx option is equivalent to -XX:MaxHeapSize.
 
-Y a-t-il de la mémoire allouée en dehors de la Heap ?
+Que se passe-t-il en dehors de la heap ?
 
 # comment se répartit la mémoire java ?
 
