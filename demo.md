@@ -13,6 +13,9 @@ $ docker stats demo --no-stream
 $ docker logs demo | grep MaxHeapSize
 $ numfmt --to=iec-i --suffix=B --padding=7 <size>
 ```
+Le container prends 100% de la mémoire du host.
+
+La JVM prends environ 25% de la mémoire du container.
 
 # sizé à 256m
 ```bash
