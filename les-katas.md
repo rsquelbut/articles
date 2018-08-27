@@ -15,6 +15,7 @@ exemples pour démarrer :
 
 ### Définition
 [les 9 règles](https://gist.github.com/bobuss/6534934)
+
 __pourquoi mon code est sale :__
 - est-il maintenable ?
 - est-il lisible ?
