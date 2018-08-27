@@ -17,12 +17,14 @@ exemples pour démarrer :
 [les 9 règles](https://gist.github.com/bobuss/6534934)
 
 __pourquoi mon code est sale :__
+
 - est-il maintenable ?
 - est-il lisible ?
 - est-il réutilisable ?
 - est-il testable ?
 
 __calisthenics ??__
+
 La callisthénie (souvent désigné par son nom en anglais calisthenics) est une pratique consistant en un ensemble d'exercices physiques de gymnastique et de musculation visant à l'amélioration des capacités physiques et de l'esthétique du corps.
 
 _On va faire pareil avec la programmation orientée objet._
