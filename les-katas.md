@@ -1,6 +1,6 @@
-#Katas
+# Katas
 
-##Inspiration
+## Inspiration
 - [Arolla via Yammer](https://www.yammer.com/arolla.fr/#/threads/inGroup?type=in_group&feedId=4954106&view=all)
 - [Coding Dojo](http://codingdojo.org/kata/)
 
@@ -11,9 +11,9 @@ exemples pour démarrer :
 - red/green/refactor
 
 
-##Objet calisthenics
+## Objet calisthenics
 
-###Définition
+### Définition
 [les 9 règles](https://gist.github.com/bobuss/6534934)
 __pourquoi mon code est sale :__
 - est-il maintenable ?
@@ -26,7 +26,7 @@ La callisthénie (souvent désigné par son nom en anglais calisthenics) est une
 
 _On va faire pareil avec la programmation orientée objet._
 
-###ce qu'on peut en retirer :
+### ce qu'on peut en retirer :
 [you're code sucks let's fix it](https://fr.slideshare.net/rdohms/bettercode-phpbenelux212alternate)
 
 1. une seule indentation par ligne
@@ -60,14 +60,14 @@ _On va faire pareil avec la programmation orientée objet._
 	- évite les erreurs de duplication
 	- évite d'exposer le modèle sous-jacent
 
-####conclusion
+#### conclusion
 __ATTENTION : ces contraintes sont des guides, pas des règles__
 - aide à implémenter le saint Graal de la _POO_ : __l'encapsulation des données__
 - améliore l'utilisation du polymorphisme _(éviter le else et simplification des conditions logiques)_
 - améliore les stratégies de nommage
 
 
-##Zero bug kata
+## Zero bug kata
 https://mixitconf.org/2018/zero-bug-kata de Johan Martinsson
 
 La dernière fois on a fait le kata Trivia, que je n'aime pas initialement, mais j'ai changé d'avis après avoir vu la prez de Johan Martinsson sur Zero Bug Kata:
