@@ -1,7 +1,7 @@
 # la genèse
 
 13 juin 2019, 18h13, je sors du bureau de mon responsable, je viens d'apprendre que ma période d'essai était rompue à l'initiative de mon employeur. Ca signifie que je vais être au chômage, avec des indemnités !!! Wouhou trop cool !!! 
-Aller, c'est décidé, je laisse passer l'été et je me lance enfin dans le monde de l'indépendance !!!
+Et on est mi-juin !!! Aller, c'est décidé, je laisse passer l'été et je me lance enfin dans le monde de l'indépendance !!!
 
 Petite précision avant de continuer, je ne suis pas sûr des dates, des heures et des prénoms qui ont précédé et qui vont suivre. Ainsi toute ressemblance avec des personnes ou des moments existants est peut-être fortuite ou pas. Bref, continuons.
 
