@@ -1,3 +1,5 @@
+# la genèse
+
 13 juin 2019, 18h13, je sors du bureau de mon responsable, je viens d'apprendre que ma période d'essai était rompue à l'initiative de mon employeur. Ca signifie que je vais être au chômage, avec des indemnités !!! Wouhou trop cool !!! 
 Aller, c'est décidé, je laisse passer l'été et je me lance enfin dans le monde de l'indépendance !!!
 
@@ -5,14 +7,21 @@ Petite précision avant de continuer, je ne suis pas sûr des dates, des heures 
 
 Courant juillet, je prépare mon avenir de freelance : prise de rendez-vous avec le comptable, de renseignements sur les différentes formes sociales. J'ai même le nom de la future boîte, un truc avec les premières lettres des prénoms de mes enfants. Ca donne un truc stylé qui fait penser à un nom de village alpestre italien. Ca alors, c'est marrant, comme mon ancienne boîte, un cabinet de conseil réputé sur la place parisienne. Mais passons, je profite de ces démarches et de ces beaux-jours pour aller voir (surtout boire un coup) avec quelques anciens collègues / éventuels futurs partenaires.
 
+## petit bilan 
 Ca y est le cadre est posé : le gars va toucher le chômage et créer sa boîte pour pouvoir ENFIN être indépendant, car c'est ce qu'il veut absolument !!! Il a de l'expérience, du réseau et il se débrouille pas mal en entretien. Il a toutes les cartes en main. Qu'est ce qui va bien pouvoir se passer pour que cette histoire mérite l'effort d'avoir été écrite ?
 
+## mise en place du suspense
 Et bien... notre héros est un peu torturé (ouais c'est moi ;) ), il veut passer indépendant car il a envie de pouvoir prendre des congés quand il le souhaite, mais au delà de ça, faire sa compta, bof, ça le chauffe pas trop. Bosser tout seul, pour sa boîte, c'est pas non plus une idée qui le botte des masses. Un peu trop grégaire pour être indépendant peut-être. Mais de l'autre côté, il pense que si l'ESN qui le salarie fait son beurre en partie grâce à lui, alors il peut bien prendre un petit congé sans solde de temps à autre, il ne voit pas à qui ça fait de mal à part à sa fiche de paye. On lui a pourtant expliqué plusieurs fois, mais ça ne rentre pas. 
 
 Alors que faire ?
 Un peu d'incertitude ne fait pas de mal dans ce genre de situation, n'est ce pas ?
 
+# l'histoire
+
 Alors, je reprends, nous sommes courant juillet et suite à une parole donnée quelques mois auparavant, je me retrouve à boire une bière en compagnie de 2 malgaches de l'IT, Guillaume et Jonathan. Quelle étonnante soirée en perspective !!! En vérité, ce sont surtout 2 anciens collègues que j'apprécie et ils viennent de monter leur agence de conseil SHODO. D'un nouveau genre me disent-ils. Ha ouais, carrément ? Ok, si c'est comme ça, je me cale au fond du fauteuil, je plisse les yeux et j'écoute attentivement la déballe.
+
+
+## les arguments 
 
 Le premier argument c'est "+ de congés", mais pas, genre 1 jour ou 2. Non, deux semaines vu mon expérience !!! Ha ouais pas mal. C'est cool mais je veux être indépendant moi de toute façon.
 
@@ -26,18 +35,25 @@ Le troisième argument est plus classique, choix des missions, craftsmanship, pa
 Ha tiens il y a aussi une demi journée par mois où on est déstaffé pour discuter, pairer entre nous. Une demi-journée de communauté on appelle ça. Il parait que c'est important pour certains. Moi, bof. Mais ce qui me plaît c'est que les mecs qui sont déjà là, je les connais pour la plupart, je les apprécie et ils sont plus intéressant qu'ils en ont l'air. Ce qui n'est pas fréquent dans le monde de l'IT. 
 Réflexion faite, c'est cool cette demi-journée communauté, ça fait sortir de son environnement monotone de mission, ça rappelle les problématiques générales de l'informatique quand on est concentré uniquement sur ses galères de mission, ça ouvre l'esprit et ça fait confronter les points de vue. En plus, moi qui craint un peu la solitude du freelance, là c'est l'antidote souverain !!!
 
+### un peu plus loin dans les arguments 
 Pour en revenir à la déballe commerciale de Guillaume et Jonathan (qui entre temps est passé chez le barbier. Guillaume je crois n'en a pas besoin), il y a quand même un truc que j'ai pas bien capté concernant la grille salariale. J'ai besoin d'en savoir un peu plus. De ce que j'ai compris, en fonction de son taux de facturation, on peut avoir plus ou moins de congés et plus ou moins de primes. Donc je pose la question et ils me répondent "mais ouais frère, c'est exactement ça". Alors là, malaise, on est pas dans la cité là. Manque plus que l'un d'eux dise "t'as vu" ou bien  "vas-y, j'ai pas le temps" et je me casse. Mais non, à ce moment là, ils m'expliquent qu'en fonction du nombre d'années d'expérience d'un quidam, un salaire et un seuil de rentabilité sont fixés. Tout ce qui dépasse, reviendra au quidam consultant. Et c'est le quidam consultant qui pourra décider s'il a besoin de se reposer plus ou s'il préfère aller plus souvent au champ de course. C'est à dire s'il veut plus de farnienté ou plus de blé. Ou autant des deux. Diantre !!! Quelle avancée !!! Chaque salarié peut décider chaque année d'orienter sa marge comme bon lui semble. Bon moi, tant que je n'ai pas divorcé, à mon avis, je prendrais un maximum de congés, mais après, on sait pas, n'est ce pas ?
 A ce moment là, quand je me demande qui garderait la maison en cas de divorce, qui aurait la garde des enfants, bref au moment où je suis faible, on me met le simulateur entre les mains et je commence à simuler, simuler, simuler (financièrement bien entendu. Ha non ce n'est pas la bonne nuance non plus. Tant pis). Et je déguste, simulations après simulations. Toutes plus fabuleuses les unes que les autres. Je prends chaud, il n'y a plus rien à boire. C'est le moment de s'en aller. Réfléchir dans la douce nuit parisienne en chevauchant un vélo voilé (double allitération labiale et dentale pour ceux que ça intéresse)
 
 Lorsque je quitte mes 2 amis (après quelques bières, bien sûr qu'on est ami), je suis encore dans mon idée de devenir indépendant, pour me tester moi, pour faire les choses exactement comme j'ai envie de les faire. Mais leur démonstration n'est quand même pas tombée sur l'orteil d'un sourd.
 
-Puis je pars en vacances. Je me rend compte (pour la 5e année consécutive) que je ne sais même pas envoyer une carte postale à ma Grand-Mère. Mais comment vais-je me débrouiller avec la compta... Sérieusement, ça risque de me coûter cher ça.  En temps, en argent et en redressement.
-Parallèlement je comprends enfin cette histoire de modèle alternatif à l'indépendance, je ne l'avais pas bien captée cette partie, épaté que j'étais par les congés payés supplémentaires. 
-Je comprends maintenant qu'en fait je n'avais pas l'envie fondamentale d'être indépendant. Ce n'est pas mon caractère ça. Oui j'ai besoin de plus de marge de manoeuvre que ce qui est offert dans une ESN classique. Oui, j'ai besoin qu'on me fasse autant confiance que je fais confiance à mon patron. Et ce n'est pas le cas dans une ESN où chaque cas individuel est analysé comme une partie d'un ensemble identique. 
-Par exemple, reconnaissez vous cette situation ? Tu vas voir ton patron avec une demande simple, qui te concerne toi (par exemple une journée de destaff pour bosser sur un sujet ou un article, ou une journée sans solde), on va probablement te répondre "écoute, je comprends ce que tu me demandes et je serais prêt à te l'accorder car tu le mérites. Mais il faut aussi que tu comprennes que si je t'accorde ça, alors il faut je l'accorde aux 80 autres et ça on ne peut pas se le permettre. On l'a déjà fait auparavant et on a eu des problèmes"
-Alors sûrement que quelques mots sont vrais dans la phrase précédente, mais mis dans cet ordre c'est principalement de la merde. Et je ne suis pas le seul à avoir entendu ce genre de discours. 
+# la réflexion
 
-Et c'est vrai que chez Shodo, avec leur modèle transparent, il n'y a plus ce problème. Tu prends le fichier excel, tu rentres ton niveau d'expérience, ton TJM et tu regardes ce à quoi tu as le droit et tu fais en fonction. T'es pas obligé de demander la permission à papa, maman.
+Puis je pars en vacances. Je me rend compte (pour la 5e année consécutive) que je ne sais même pas envoyer une carte postale à ma Grand-Mère. Mais comment vais-je me débrouiller avec la compta... Sérieusement, ça risque de me coûter cher ça.  En temps, en argent et en redressement.
+
+Parallèlement je comprends enfin cette histoire de modèle alternatif à l'indépendance, je ne l'avais pas bien captée cette partie, épaté que j'étais par les congés payés supplémentaires. 
+
+Je comprends maintenant qu'en fait je n'avais pas l'envie fondamentale d'être indépendant. Ce n'est pas mon caractère. Oui j'ai besoin de plus de marge de manoeuvre que ce qui est offert dans une ESN classique. Oui, j'ai besoin qu'on me fasse autant confiance que je fais confiance à mon patron. Et ce n'est pas le cas dans une ESN où chaque cas individuel est analysé comme une partie d'un ensemble identique. 
+Par exemple, reconnaissez vous cette situation ? Tu vas voir ton patron avec une demande simple, qui te concerne toi (par exemple une journée de destaff pour bosser sur un sujet ou un article, ou une journée sans solde). Le discours en retour sera probablement de cet acabit : "écoute, je comprends ce que tu me demandes et j'aurais envie te l'accorder. Mais il faut aussi que tu comprennes que si je t'accorde ça, alors il faut je l'accorde aux 80 autres et ça on ne peut pas se le permettre. On l'a déjà fait auparavant et on a eu des problèmes"
+Alors sûrement que quelques mots sont vrais dans la phrase précédente, mais mis dans cet ordre c'est de la réthorique de merde. Malheureusement je ne suis pas le seul à avoir entendu ce genre de discours. Mais on est pas 80 non plus. Tout le monde n'a pas les même besoins, ni les même envies.
+
+Pour en revenir à Shodo, avec leur modèle transparent, il n'y a plus ce problème. Tu prends le fichier excel, tu rentres ton niveau d'expérience, ton TJM et tu regardes ce à quoi tu as le droit et tu fais en fonction. T'es pas obligé de demander la permission à papa, maman.
 Avec ce système, en plus tu es libre de choisir ta mission comme tu veux. Shodo n'a aucun intérêt à ce que tu ailles dans une mission facturée 750 plutôt que dans celle à 680. La différence elle est seulement pour toi. Donc tu décides seul. Un peu comme un indépendant en fait.
+
+# conclusion
 
 Donc voilà, plus l'été avance et plus je me dis qu'être indépendant, je le serais peut-être un jour, une sorte de défi contre ma nature, mais pour le moment c'est avec Shodo que je vais signer pour des raisons de convivialité, de souplesse, d'indépendance. Et de congés aussi ;)
