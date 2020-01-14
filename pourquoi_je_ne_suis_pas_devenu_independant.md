@@ -1,7 +1,7 @@
 # la genèse
 
-13 juin 2019, 18h13, je sors du bureau de mon responsable, je viens d'apprendre que ma période d'essai était rompue à l'initiative de mon employeur. Ca signifie que je vais être au chômage !!! avec des indemnités !!! Au tout début de l'été !!! Ca fait jamais plaisir de ne pas faire l'affaire, mais je sais que les torts sont partagés alors : Wouhou trop cool !!! 
- Aller, c'est décidé, je laisse passer l'été et je me lance enfin dans le monde de l'indépendance !!! 3 ans maintenant que j'y pense.
+13 juin 2019, 18h13, je sors du bureau de mon responsable, je viens d'apprendre que ma période d'essai était rompue à l'initiative de mon employeur. Ca signifie que je vais être au chômage !!! Avec des indemnités !!! Au tout début de l'été !!! Ca fait jamais plaisir de ne pas faire l'affaire, mais je sais que les torts sont partagés alors : Wouhou trop cool !!! 
+Aller, c'est décidé, je laisse passer l'été et je me lance enfin dans le monde de l'indépendance !!! 3 ans maintenant que j'y pense.
 
 _Petite précision avant de continuer, je ne suis sûr ni des dates, des heures et des prénoms qui ont précédé et ni de ceux qui vont suivre. Ainsi toute ressemblance avec des personnes ou des moments existants est peut-être fortuite ou pas. Bref, continuons._
 
@@ -14,7 +14,7 @@ Ca y est le cadre est posé : le gars va toucher le chômage et créer sa boîte
 Et bien... notre héros est un peu torturé (ouais c'est moi ;) ), il veut passer indépendant car il a envie de pouvoir prendre des congés quand il le souhaite, mais au delà de ça, faire sa compta, bof, ça le chauffe pas trop. Bosser tout seul, pour sa boîte, c'est pas non plus une idée qui le botte des masses. Un peu trop grégaire pour être indépendant peut-être. Mais de l'autre côté, il pense que si l'ESN qui le salarie fait son beurre en partie grâce à lui, alors il peut bien prendre un petit congé sans solde de temps à autre. Surtout qu'il ne voit pas à qui ça fait de mal, à part à sa fiche de paye. On lui a expliqué plusieurs fois le pourquoi du comment mais ça ne rentre pas. 
 
 _Alors que faire ?
-Un peu d'incertitude ne fait pas de mal dans ce genre de situation, n'est ce pas ?_
+Un peu d'incertitude pimente ce genre de situation, n'est ce pas ? Et vous allez voir, on va en avoir besoin de piment_
 
 # l'histoire
 
@@ -36,8 +36,8 @@ Ha tiens il y a aussi une demi journée par mois où on est déstaffé pour disc
 Réflexion faite, c'est cool cette demi-journée communauté, ça fait sortir de son environnement monotone de mission, ça rappelle les problématiques générales de l'informatique quand on est concentré uniquement sur ses galères de mission, ça ouvre l'esprit et ça fait confronter les points de vue. En plus, moi qui craint un peu la solitude du freelance, là c'est l'antidote souverain !!!
 
 ### un peu plus loin dans les arguments 
-Pour en revenir à la déballe commerciale de Guillaume et Jonathan (qui entre temps est passé chez le barbier. Guillaume, je crois, n'en a pas besoin), il y a quand même un truc que j'ai pas bien capté concernant la grille salariale. J'ai besoin d'en savoir un peu plus. De ce que j'ai compris, en fonction de son taux de facturation, on peut avoir plus ou moins de congés et plus ou moins de primes. Donc je pose la question et ils me répondent "mais ouais frère, c'est exactement ça". Alors là, malaise, on est pas dans la cité là. Manque plus que l'un d'eux dise "t'as vu" ou bien  "vas-y, j'ai pas le temps" et je me casse. Mais non, à ce moment là, ils m'expliquent qu'en fonction du nombre d'années d'expérience d'un quidam, un salaire et un seuil de rentabilité sont fixés. Tout ce qui dépasse, reviendra au quidam consultant. Et c'est le quidam consultant qui pourra décider s'il a besoin de se reposer plus ou s'il préfère aller plus souvent au champ de course. C'est à dire s'il veut plus de farniente ou plus de blé. Ou autant des deux. Diantre !!! Quelle avancée !!! Chaque salarié peut décider chaque année d'orienter sa marge comme bon lui semble. Bon moi, tant que je n'ai pas divorcé, à mon avis, je prendrais un maximum de congés, mais après, on sait pas, n'est ce pas ?
-A ce moment là, quand je me demande qui garderait la maison en cas de divorce, qui aurait la garde des enfants, bref au moment où je suis faible, on me met le simulateur entre les mains et je commence à simuler, simuler, simuler (financièrement bien entendu. Ha non ce n'est pas la bonne nuance non plus. Tant pis). Et je déguste, simulations après simulations. Toutes plus fabuleuses les unes que les autres. Je prends chaud, il n'y a plus rien à boire. C'est le moment de s'en aller. Réfléchir dans la douce nuit parisienne en chevauchant un vélo voilé (double allitération labiale et dentale pour ceux que ça intéresse).
+Pour en revenir à la déballe commerciale de Guillaume et Jonathan (qui entre temps est passé chez le barbier. Guillaume, je crois, n'en a pas besoin), il y a quand même un truc que j'ai pas bien capté concernant la grille salariale. J'ai besoin d'en savoir un peu plus. De ce que j'ai compris, en fonction de son taux de facturation, on peut avoir plus ou moins de congés et plus ou moins de primes. Donc je pose la question et ils me répondent "mais ouais frère, c'est exactement ça". Alors là, malaise... On est sur un rooftop en plein Paname, on est pas dans la cité là. Manque plus que l'un d'eux dise "t'as vu" ou bien  "vas-y, j'ai pas le temps" et je me casse. Mais non, à ce moment là, ils m'expliquent qu'en fonction du nombre d'années d'expérience d'un quidam, un salaire et un seuil de rentabilité sont fixés. Tout ce qui dépasse, reviendra au quidam consultant. Et c'est le quidam consultant qui pourra décider s'il a besoin de se reposer plus ou s'il préfère aller plus souvent au champ de course. C'est à dire s'il veut plus de farniente ou plus de blé. Ou autant des deux. Diantre !!! Quelle avancée !!! Chaque salarié peut décider chaque année d'orienter sa marge comme bon lui semble. Bon moi, tant que je n'ai pas divorcé, à mon avis, je prendrais un maximum de congés, mais après, on sait pas, n'est ce pas ?
+A ce moment là, quand je me demande qui garderait la maison en cas de divorce, qui aurait la garde des enfants, bref au moment où je suis faible, on me met le simulateur entre les mains et je commence à simuler, simuler, simuler (financièrement bien entendu. Ha non ce n'est pas la bonne nuance non plus. Tant pis). Et je m'electrise, simulations après simulations. Toutes plus fabuleuses les unes que les autres. Je prends chaud, il n'y a plus rien à boire. C'est le moment de s'en aller. Réfléchir dans la douce nuit parisienne en chevauchant un vélo voilé*.
 
 Lorsque je quitte mes 2 amis (après quelques bières, bien sûr qu'on est ami), je suis encore dans mon idée de devenir indépendant, pour me tester moi, pour faire les choses exactement comme j'ai envie de les faire. Mais leur démonstration n'est quand même pas tombée sur l'orteil d'un sourd.
 
@@ -52,11 +52,14 @@ Par exemple, reconnaissez vous cette situation ? Tu vas voir ton patron avec une
 Alors sûrement que quelques mots sont vrais dans la phrase précédente, mais mis dans cet ordre c'est de la réthorique de merde. Malheureusement je ne suis pas le seul à avoir entendu ce genre de discours. Mais on est pas 80 non plus. Tout le monde n'a pas les même besoins, ni les même envies.
 
 Pour en revenir à Shodo, avec leur modèle transparent, il n'y a plus ce problème. Tu prends le fichier excel, tu rentres ton niveau d'expérience, ton TJM et tu regardes ce à quoi tu as le droit et tu fais en fonction. T'es pas obligé de demander la permission à papa, maman.
-Avec ce système, en plus tu es libre de choisir ta mission comme tu veux. Shodo n'a aucun intérêt à ce que tu ailles dans une mission facturée 750 plutôt que dans celle à 680. La différence elle est seulement pour toi. Donc tu décides seul. Un peu comme un indépendant en fait.
+Avec ce système, en plus, tu es libre de choisir ta mission comme tu veux. Shodo n'a aucun intérêt à ce que tu ailles dans une mission facturée 750 plutôt que dans celle à 680. La différence qui va dans la poche, elle est seulement pour toi. Donc tu décides seul. Un peu comme un indépendant en fait.
 
 # conclusion
 
 L'été a avancé, les idées se sont affinées. Alors je fais un petit bilan : en face du modèle de Shodo, quelles sont les raisons qui me poussent vraiment à devenir indépendant ? 
 D'un côté, j'ai la communauté, la souplesse, une certaine indépendance, pas mal de congés, pas de paperasse. De l'autre, j'ai presque pareil avec beaucoup de paperasse, pas de communauté en plus d'un défi contre moi-même.
 
-Je ne nie pas l'intérêt de se défier soi même, mais c'est avec Shodo que je vais signer.
+Je ne nie pas l'intérêt de se défier soi même, mais franchement, c'est tout vu, c'est avec Shodo que je vais signer.
+
+
+* double allitération labiale et dentale pour ceux que ça intéresse. Et pour ceux qui aiment lire jusqu'au bout, sachez qu'au guidon de mon vélo voilé, j'ai subi, en baguenaudant par le bois de Vincennes, un coup bas d'une basse branche. Allitération labiale à nouveau.
