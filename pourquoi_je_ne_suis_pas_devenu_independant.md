@@ -11,10 +11,10 @@ Courant juillet, je prépare mon avenir de freelance : prise de rendez-vous avec
 Ca y est le cadre est posé : le gars va toucher le chômage et créer sa boîte pour pouvoir ENFIN être indépendant, car c'est ce qu'il veut absolument !!! Il a de l'expérience, du réseau et il se débrouille pas mal en entretien. Il a toutes les cartes en main. Qu'est ce qui va bien pouvoir se passer pour que cette histoire mérite l'effort d'avoir été écrite ?
 
 ## mise en place du suspense
-Et bien... notre héros est un peu torturé (ouais c'est moi ;) ), il veut passer indépendant car il a envie de pouvoir prendre des congés quand il le souhaite, mais au delà de ça, faire sa compta, bof, ça le chauffe pas trop. Bosser tout seul, pour sa boîte, c'est pas non plus une idée qui le botte des masses. Un peu trop grégaire pour être indépendant peut-être. Mais de l'autre côté, il pense que si l'ESN qui le salarie fait son beurre en partie grâce à lui, alors il peut bien prendre un petit congé sans solde de temps à autre. Surtout qu'il ne voit pas à qui ça fait de mal, à part à sa fiche de paye. On lui a expliqué plusieurs fois le pourquoi du comment mais ça ne rentre pas. 
+Et bien... notre héros est un peu torturé (ouais c'est moi ;) ), il veut passer indépendant car il a envie de pouvoir prendre des congés quand il le souhaite, mais au delà de ça, faire sa compta, bof, ça le chauffe pas trop. Bosser tout seul, pour sa boîte, c'est pas non plus une idée qui le botte des masses. Un peu trop grégaire pour être indépendant peut-être. Mais de l'autre côté, si l'ESN qui le salarie fait son beurre en partie grâce à lui, alors il peut bien prendre un petit congé sans solde de temps à autre, non ?. A qui ça fait du mal, à part sa fiche de paye. On lui a expliqué plusieurs fois le pourquoi du comment mais ça ne rentre pas. 
 
 _Alors que faire ?
-Un peu d'incertitude pimente ce genre de situation, n'est ce pas ? Et vous allez voir, on va en avoir besoin de piment_
+Un peu d'incertitude pimente ce genre de situation, n'est ce pas ?_
 
 # l'histoire
 
