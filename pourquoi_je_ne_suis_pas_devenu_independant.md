@@ -56,7 +56,11 @@ Avec ce système, en plus, tu es libre de choisir ta mission comme tu veux. Shod
 
 # conclusion
 
-L'été a avancé, les idées se sont affinées. Alors je fais un petit bilan : en face du modèle de Shodo, quelles sont les raisons qui me poussent vraiment à devenir indépendant ? 
+L'été a avancé, les idées se sont affinées. Effectivement, je n'ai pas fait de bilan à base de petit tableau avec des + et des -, mais récapitulons rapidement : 
+Pourquoi je voulais être indépendant ? Vous l'aurez compris, principalement pour avoir plus de congés. Mais aussi parce que j'avais du mal avec le fait d'être traité comme tous les consultants. Je ne veux pas avoir plus de droits que mes collègues, mais je n'ai pas forcément les mêmes besoins, les même envies. Et c'est pareil pour tout le monde. En résumant, les libertés dont nous bénéficions dans toute entreprise sont celles qui peuvent être accordées à l'ensemble des consultants, c'est à dire le plus petit ensemble commun. 
+Chez SHODO, le parti pris est de donner directement le maximum au consultant, c'est explicite dans le contrat. Pas besoin de négocier, juste de décider et s'organiser.
+
+qu'on Avoir plus de souplesse dans l'organisation de mon temps de travail.Alors je fais un petit bilan : en face du modèle de Shodo, quelles sont les raisons qui me poussent vraiment à devenir indépendant ? 
 D'un côté, j'ai la communauté, la souplesse, une certaine indépendance, pas mal de congés, pas de paperasse. De l'autre, j'ai presque pareil avec beaucoup de paperasse, pas de communauté en plus d'un défi contre moi-même.
 
 Je ne nie pas l'intérêt de se défier soi même, mais franchement, c'est tout vu, c'est avec Shodo que je vais signer.
