@@ -63,4 +63,5 @@ Je ne dis pas que je ne serais jamais indépendant (un autre jour ? une autre vi
 
 
 * double allitération labiale et dentale pour ceux que ça intéresse. Et pour ceux qui aiment lire jusqu'au bout, sachez qu'au guidon de mon vélo voilé, j'ai subi, en baguenaudant par le bois de Vincennes, un coup bas d'une basse branche. Allitération labiale à nouveau.
+
 ** ce mot n'est pas choisi au hasard ;)
