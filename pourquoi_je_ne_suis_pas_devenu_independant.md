@@ -20,10 +20,10 @@ Alors, je reprends, nous sommes courant juillet, je me retrouve à boire une bi�
 
 ## les arguments 
 
-Le premier argument c'est "+ de congés", mais pas, genre un jour ou deux. Non, deux semaines vu mon expérience !!! Ha ouais pas mal.
+Le premier argument c'est "+ de congés", mais pas, genre un jour ou deux. Non, deux semaines vu mon expérience !!! Je ne peux pas le nier, je ne m'y attendais pas et c'est une sacrée bonne surprise.
 
 Deuxième argument, c'est la transparence avec une grille salariale ouverte et inscrite dans les contrats. Elle est ouverte aussi bien aux salariés qu'aux clients. Bon... C'est probablement bien mais moi ça m'arrange pas tant que ça. J'aime bien être mieux payé que mes collègues. 
-D'un oeil poli, je mate la grille que me tend Guillaume et surprise : j'ai le même salaire qu'avant, avec 2 semaines de congés supplémentaires. L'oeil poli devient intéressé !!! Et tant pis pour la crise d'égo, je la soignerai autrement. 
+D'un oeil poli, je mate la grille que me tend Guillaume et surprise : j'ai le même salaire qu'avant malgré les deux semaines de congés supplémentaires. L'oeil poli devient intéressé !!! Et tant pis pour la crise d'égo, je la soignerai autrement. 
 
 Le troisième argument est plus classique, choix des missions, craftsmanship, partage etc etc ... Ok c'est toujours bien de le dire mais comme je les connais, je sais qu'ils savent de quoi ils parlent. 
 Ha tiens, il y a aussi une demi-journée par mois où on est déstaffé pour discuter, pairer entre nous. Une demi-journée de communauté on appelle ça. Il parait que c'est important pour certains. Moi, bof. Mais ce qui me plaît c'est que les mecs qui sont déjà là, je les connais pour la plupart, je les apprécie et ils sont plus intéressant qu'ils en ont l'air. Ce qui n'est pas fréquent dans le monde de l'IT. 
