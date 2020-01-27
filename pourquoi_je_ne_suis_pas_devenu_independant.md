@@ -1,3 +1,9 @@
+- préciser le lieu et le motif de la rencontre
+- trouver un synonyme de monotone
+
+
+
+
 # la genèse
 
 13 juin 2019, 18h13, 6e arrondissement, Marion Cotillard  prend l'apéro dans le quartier. Je sors du bureau de mon responsable, je viens d'apprendre que ma période d'essai était rompue à l'initiative de mon employeur. Ca signifie que je vais être au chômage. Avec des indemnités. Au tout début de l'été. Ca fait jamais plaisir de ne pas faire l'affaire, mais je sais que les torts sont partagés alors : Wouhou trop cool !!! 
