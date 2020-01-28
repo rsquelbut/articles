@@ -28,7 +28,7 @@ D’un autre côté, faire ma compta, bof, ça ne me chauffe pas trop… Puis, b
 
 _On dirait que je veux le beurre et l’argent du beurre. Plus de souplesse mais pas de paperasse. Arbitrer seul mon temps de temps travail mais avoir des collègues. Je veux être indépendant mais je ne suis pas indépendant par nature._
  
-## Soigner son réseau avant de devenir indépendant
+## La découverte de SHODO
 
 Dans ma tournée des anciens collègues, des gens avec qui j’avais envie de boire un coup, juste pour donner et prendre des nouvelles, je me retrouve à partager quelques bières en compagnie de deux malgaches de l'IT, Guillaume et Jonathan. Le cadre est idéal, terrasse petite mais en rooftop, plein centre de Paris, soleil et bières tièdes. 
 Après les salamalecs d’usage, je leur apprends que je vais passer indep, ils m’apprennent qu’ils viennent de monter leur agence de conseil SHODO. Ok cool, chapeau les gars. 
