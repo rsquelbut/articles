@@ -1,6 +1,8 @@
+
 # Pourquoi je ne suis toujours pas indépendant
 
 ___Je suis développeur depuis 13 ans et commence à avoir un peu de bouteille. J’ai passé 8 ans dans des ESN. J’apprécie autant de travailler sur un projet sur le long terme que de changer régulièrement de lieu de travail, de collègues et d’environnement. J’ai toujours espéré trouver dans les petites ESN des règles plus souples que dans les entreprises classiques. J’ai parfois entendu des paroles mais jamais constaté d’actes. Je vais donc passer indépendant pour gérer mon temps de travail comme bon me semble.___
+
 
 ## Création de l’opportunité
 
@@ -15,6 +17,8 @@ Passons, je profite de ces démarches et de ces beaux-jours pour aller voir (sur
 Bon, bah je crois que tout ça s’annonce sous les meilleurs auspices. J’ai de l'expérience, du réseau et je me débrouille pas trop mal en entretien.
 
 _Mais qu'est ce qui va bien pouvoir se passer pour que cette histoire mérite l'effort d'avoir été écrite ?_
+
+<img src="/raphael-citation.jpg" alt="gros nez" width="200" text-align="center"/>
 
 ## L’indépendance, un choix de raison ?
 
@@ -79,6 +83,5 @@ L'été a avancé et les idées se sont affinées. Affirmées même. D'un côté
 Je ne dis pas que je ne serais jamais indépendant (un autre jour ? une autre vie ?), mais aujourd'hui, mon choix est sans équivoque, c'est avec SHODO que je vais signer.
 
 *double allitération labiale et dentale pour ceux que ça intéresse. Et pour ceux qui aiment lire jusqu'au bout, sachez qu'au guidon de mon vélo voilé, j'ai subi, en baguenaudant par le bois de Vincennes, un coup bas d'une basse branche. Allitération labiale à nouveau.
-** ce mot n'est pas choisi au hasard ;)
 
- 
+** ce mot n'est pas choisi au hasard ;)
