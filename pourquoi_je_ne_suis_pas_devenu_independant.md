@@ -14,9 +14,8 @@ _Petite précision avant de continuer, je ne suis sûr ni des dates, des heures 
 Courant juillet, je prépare mon avenir de freelance : prise de rendez-vous avec un comptable et je me renseigne sur les différentes formes sociales de la société.
 J'ai même le nom de la future boîte, un truc avec les premières lettres des prénoms de mes enfants. Ça donne un truc stylé qui fait penser à un nom de village alpestre italien… Tiens c'est marrant, comme mon ancienne boîte, un cabinet de conseil réputé sur la place parisienne.
 Passons, je profite de ces démarches et de ces beaux-jours pour aller voir (surtout boire un coup) avec quelques anciens collègues / éventuels futurs partenaires.
-Bon, bah je crois que tout ça s’annonce sous les meilleurs auspices. J’ai de l'expérience, du réseau et je me débrouille pas trop mal en entretien.
 
-_Mais qu'est ce qui va bien pouvoir se passer pour que cette histoire mérite l'effort d'avoir été écrite ?_
+_Bon, bah je crois que tout ça s’annonce sous les meilleurs auspices. J’ai de l'expérience, du réseau et je me débrouille pas trop mal en entretien. Mais qu'est ce qui va bien pouvoir se passer pour que cette histoire mérite l'effort d'avoir été écrite ?_
 
 <img src="/raphael-citation.jpg" alt="gros nez" width="200" text-align="center"/>
 
@@ -45,7 +44,7 @@ Deuxième argument, c'est la transparence avec une grille salariale ouverte et i
 D'un oeil morne et poli, je mate la grille que me tend Guillaume. Surprise ! J'ai le même salaire confortable que mon dernier poste en plus des deux semaines de congés supplémentaires. L'oeil morne et poli devient ardent et calculateur ! Tant pis pour la crise d'égo, je la soignerai autrement.
 Le troisième argument c’est une journée entière tous les deux mois où on est déstaffé pour discuter, pairer entre nous. Une « journée de communauté » on appelle ça. Il parait que c'est important pour certains. Moi, bof. Je n’ai plus 25 ans et ça ne m’amuse plus d’écouter les “worst of” de mission des uns et des autres. En revanche, ce qui me plaît c'est que les mecs qui sont déjà là, je les connais pour la plupart, je les apprécie et ils sont plus intéressant qu'ils ne débitent des anecdotes élimées.
 Ce qui n'est pas fréquent dans le monde de l'IT.
-En plus, ça fait sortir de son environnement routinier de mission, ça rappelle les problématiques générales de l'informatique quand on est concentré uniquement sur ses galères chez le client, ça ouvre l'esprit et ça fait confronter les points de vue.
+En plus, ça fait sortir de son environnement routinier de mission, ça rappelle les problématiques générales de l'informatique quand on est concentré uniquement sur sa routine chez le client, ça ouvre l'esprit et ça fait confronter les points de vue.
 Enfin, moi qui crains un peu la solitude du freelance, là c'est l'antidote souverain !
 Réflexion faite, c'est bien cool cette journée communauté.
 
