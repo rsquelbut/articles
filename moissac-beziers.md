@@ -48,7 +48,7 @@ On peut trouver des trucs pas cher sur Vinted
 - un cycliste (celui de Décathlon à 40 balles était apparement pas mal l'an dernier)
 - la selle -> ne croyez surtout qu'une grosse selle est une selle confortable. Demandez conseil à un vendeur de cycle. Ou sinon cherchez une San Marco Rolls sur le bon coin.
 - un bidon + porte bidon (si possible grand bidon, encore mieux s'il y a l'option thermos)
-- des pédales avec cale pied (facile à trouver sur le bon coin [par exemple](https://www.leboncoin.fr/velos/1777031592.htm/))
+- des pédales avec cale pied (facile à trouver sur le bon coin [par exemple](https://www.leboncoin.fr/velos/1777031592.htm/)) sinon, on peut trouver l'ensemble neuf pour environ 30e
 - si vous devez changer la guidoline et que vous hésitez entre celle à 7 balles et celle à 15 balles, rappelez vous que vos mains seront toute la journée sur le guidon. Un peu de confort ne fait pas de mal.
 - des pneus schwalbes marathon en 25 -> [site pour acheter des pneus en tout genre dimaètre 700 section 25](https://www.cycletyres.fr/). 
 - un cadenas
