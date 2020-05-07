@@ -54,6 +54,8 @@ On peut trouver des trucs pas cher sur Vinted
 - si vous devez changer la guidoline et que vous hésitez entre celle à 7 balles et celle à 15 balles, rappelez vous que vos mains seront toute la journée sur le guidon. Un peu de confort ne fait pas de mal.
 - des pneus schwalbes marathon en 25 -> [site pour acheter des pneus en tout genre dimaètre 700 section 25](https://www.cycletyres.fr/). 
 - un cadenas
+- une chambre à air de secours
+- une bombe anti crevaison (attention à prendre une bombe course et non pas une bombe VTT)
 
 ### Ca serait mieux avec
 - un t-shirt technique, le coton c'est relou, surtout avec un sac à dos
