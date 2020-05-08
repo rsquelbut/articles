@@ -52,7 +52,7 @@ On peut trouver des trucs pas cher sur Vinted
 - un bidon + porte bidon (si possible grand bidon, encore mieux s'il y a l'option thermos)
 - des pédales avec cale pied (facile à trouver sur le bon coin [par exemple](https://www.leboncoin.fr/velos/1777031592.htm/)) sinon, on peut trouver l'ensemble neuf pour environ 30e
 - si vous devez changer la guidoline et que vous hésitez entre celle à 7 balles et celle à 15 balles, rappelez vous que vos mains seront toute la journée sur le guidon. Un peu de confort ne fait pas de mal.
-- des pneus schwalbes marathon en 25 -> [site pour acheter des pneus en tout genre dimaètre 700 section 25](https://www.cycletyres.fr/). 
+- des pneus schwalbes marathon en 25 -> [site pour acheter des pneus en tout genre dimaètre 700 section 25](https://www.cycletyres.fr/). sinon il y a ça moins cher -> https://www.bike-components.de/fr/Schwalbe/Set-de-2-Pneus-Rigides-Marathon-28-Modele-2019-p71806/
 - un cadenas
 - une chambre à air de secours
 - une bombe anti crevaison (attention à prendre une bombe course et non pas une bombe VTT)
