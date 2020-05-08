@@ -17,9 +17,7 @@
 - Phuong
 - Julien
 
-## Propositions trajets
-
-### la Jalabert
+### le trajet
 C'est le trajet qui passe par Mazamet dans l'arrière pays.  
 https://www.komoot.fr/tour/180411745
 
@@ -29,18 +27,6 @@ https://www.komoot.fr/tour/180411745
 - [Mazamet-Bédarieux](https://www.af3v.org/les-voies-vertes/voies/95-spip_tag)
 - [Véloroute de Bédarieux à Béziers](https://www.af3v.org/les-voies-vertes/voies/36-spip_tag/)
 - [article francevelotourisme](https://www.francevelotourisme.com/itineraire/passapais)
-
-### la Baubert
-C'est par le canal du midi.  
-https://www.komoot.fr/tour/176964028
-
-
-#### à retenir
-#### pour aller plus loin
-- [Toulouse-Montferrand](https://www.af3v.org/les-voies-vertes/voies/6-v80-canal-des-deux-mers-a-velo-partie-haute-garonne-sud-est)
-- [Carcassone-Mirepeisset](https://www.af3v.org/les-voies-vertes/voies/26-v80-canal-des-deux-mers-a-velo-de-carcassonne-a-mirepeisset-ev8-voie-verte-de-carcassonne-a-trebes)
-- [Mirepeisset-Béziers](https://www.af3v.org/les-voies-vertes/voies/258-ev8-mediterranee-a-velo-v80-canal-des-deux-mers-a-velo-de-mirepeisset-a-beziers)
-- [guide à acheter](https://www.2p2r.org/balades-guides/nos-guides/article/guide-no1-a-velo-le-long-du-canal-du-midi-des-rigoles-et-du-canal-de-la-robine)
 
 ## Matos
 ***ATTENTION*** Tout le matos et fringues de vélo coutent une fortune.  
