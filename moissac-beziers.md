@@ -61,3 +61,6 @@ On peut trouver des trucs pas cher sur Vinted
 - un t-shirt technique, le coton c'est relou, surtout avec un sac à dos
 - une sacoche de guidon genre celle là de chez [D4](https://www.decathlon.fr/p/sacoche-guidon-velo-300-2-5l/_/R-p-120009)
 - si vous avez 2 portes bidon, un bidon porte outil ça peut-être bien pratique genre [ça](https://www.decathlon.fr/p/bidon-porte-outils-velo-750ml/_/R-p-100539)
+
+### Autres liens
+- [fabriquer ses sacoches vélos](https://alpkit.com/blogs/deeds/diy-saddlebag)
