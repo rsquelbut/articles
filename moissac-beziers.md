@@ -2,7 +2,23 @@
 
 ## Infos générales
 ### Dates
-***du 4 au 7 juillet 2020***
+***du 4 au 8 juillet 2020***
+
+- train aller des parisiens (Fab, Flo, Waël, Phuong, Raphaël)
+>mercredi __08 JUILLET 2020__ 
+>départ __13h34__ depuis Béziers
+>arrivée __17h37__ à Gare de Lyon
+>Dossier voyage : __SGJMID__
+>Nom : __JEWAD__
+ 
+
+- train retour des parisiens (Fab, Flo, Waël, Phuong, Raphaël)
+>mercredi __03 JUILLET 2020__ 
+>départ __22h05__ depuis Austerlitz
+>arrivée environ __05h20__ à Montauban
+>Dossier voyage : __QYACRN__
+>Nom : __JEWAD__
+
 
 ### Participants
 - Loïc
