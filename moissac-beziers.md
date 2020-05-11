@@ -56,6 +56,7 @@ On peut trouver des trucs pas cher sur Vinted
 - [fabriquer ses sacoches vélos](https://alpkit.com/blogs/deeds/diy-saddlebag)
 - [pour acheter les marathons pas cher](https://www.bike-components.de/fr/Schwalbe/Set-de-2-Pneus-Rigides-Marathon-28-Modele-2019-p71806)
 - [test des equipements Zefal](https://bike-cafe.fr/2018/08/z-aventure-en-bikepacking-avec-zefal/)
+- [comparatif sacoches en anglais](https://www.cyclist.co.uk/buying-guides/3733/buyers-guide-best-bikepacking-bags)
 
 ## Ma valise de l'an dernier
 - un sac de couchage
@@ -65,8 +66,9 @@ On peut trouver des trucs pas cher sur Vinted
 - un pantalon de foot (8e chez d4)
 - 3 t-shirts
 - 3 slops
-- 1 cycliste
-- 1 maillot
+- 1 cycliste 
+- 1 maillot avec une fermeture qui va de haut en bas
+- 1 veste polaire pour les premières minutes le matin et le soir parfois mais pas forcément vélo
 - 1 veste imperméable
 - 1 serviette compacte
 - 1 paire de tong
@@ -74,3 +76,5 @@ On peut trouver des trucs pas cher sur Vinted
 - 1 putain de carte __REVOLUT__
 - 1 casque
 - 1 trousse de toilette et le nécessaire
+
+des justifications viendont peut-être
