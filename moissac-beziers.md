@@ -74,12 +74,6 @@ On peut trouver des trucs pas cher sur Vinted
 - [test des equipements Zefal](https://bike-cafe.fr/2018/08/z-aventure-en-bikepacking-avec-zefal/)
 - [comparatif sacoches en anglais](https://www.cyclist.co.uk/buying-guides/3733/buyers-guide-best-bikepacking-bags)
 - [calculs de développements](https://frama.link/calculRapportVelo)
-    - un écart de 3 dents sur les pignons implique un écart
-        - de presque 8km/h pour une même fréquence de pédalage
-        - de 2m15 pour un tour de pédale
-    - un écart de 3 dents sur les plateaux implique un écart
-        - d'un peu plus de 2km/h pour une même fréquence de pédalage
-        - de 24cm pour un tour de pédale
 
 ## Ma valise de l'an dernier
 - un sac de couchage
