@@ -75,6 +75,7 @@ On peut trouver des trucs pas cher sur Vinted
 - [comparatif sacoches en anglais](https://www.cyclist.co.uk/buying-guides/3733/buyers-guide-best-bikepacking-bags)
 - [calculs de développements](https://frama.link/calculRapportVelo)
 - [calculateurs divers dont celui de la pression de pneu](https://www.alpiniste.fr/outdoor-calculateur/#velo)
+- [liste d'un mec parti 3J en vélo en totale autonomie](https://lighterpack.com/r/bvw9hp)
 
 ## Ma valise de l'an dernier
 - un sac de couchage
