@@ -74,6 +74,7 @@ On peut trouver des trucs pas cher sur Vinted
 - [test des equipements Zefal](https://bike-cafe.fr/2018/08/z-aventure-en-bikepacking-avec-zefal/)
 - [comparatif sacoches en anglais](https://www.cyclist.co.uk/buying-guides/3733/buyers-guide-best-bikepacking-bags)
 - [calculs de développements](https://frama.link/calculRapportVelo)
+- [calculateurs divers dont celui de la pression de pneu](https://www.alpiniste.fr/outdoor-calculateur/#velo)
 
 ## Ma valise de l'an dernier
 - un sac de couchage
