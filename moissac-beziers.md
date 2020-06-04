@@ -23,6 +23,7 @@ Dernière Etape: https://www.komoot.fr/tour/195585608
   
 
 #### pour aller plus loin
+- [voie verte Orgueil](http://www.orgueil.fr/fr/actualites/article/future-velo-voie-verte-e.html)
 - [Mazamet-Bédarieux](https://www.af3v.org/les-voies-vertes/voies/95-spip_tag)
 - [Véloroute de Bédarieux à Béziers](https://www.af3v.org/les-voies-vertes/voies/36-spip_tag/)
 - [article francevelotourisme](https://www.francevelotourisme.com/itineraire/passapais)
