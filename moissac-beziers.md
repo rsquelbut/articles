@@ -12,8 +12,10 @@ Inconnu: Loïc
 ## Itinéraire
 
 Prologue: https://www.komoot.fr/tour/196745269  
-Etape 1: https://www.komoot.fr/tour/195586057  
-Etape 1bis: https://www.komoot.fr/tour/196745016  
+Etape 1: 
+  - proposition 1 (avec voie verte) : https://www.komoot.fr/tour/195586057  
+  - proposition 2 (sans voie verte) : https://www.komoot.fr/tour/196745016 
+  - proposition 3 (mi figue / mi raison) : https://www.komoot.fr/tour/196791147  
 Etape 2: https://www.komoot.fr/tour/195585984  
 Etape 3: https://www.komoot.fr/tour/195585711  
 Dernière Etape: https://www.komoot.fr/tour/195585608  
