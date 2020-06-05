@@ -19,7 +19,7 @@ Etape 1:
 
 Etape 2: https://www.komoot.fr/tour/195585984  
 Etape 3: https://www.komoot.fr/tour/195585711  
-Dernière Etape: https://www.komoot.fr/tour/195585608  
+L'étape des Champs-Elysées: https://www.komoot.fr/tour/197133200  
   
 
 #### pour aller plus loin
